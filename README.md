@@ -9,7 +9,7 @@
 <h5 align="center">
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:watanegreirosmonteiro@gmail.com)
-[![Blog](https://img.shields.io/website?label=wataneegreirosmonteiro.com.br&style=for-the-badge&url=https://www.watanegreirosmonteiro.com.br/)](https://www.watanegreirosmonteiro.com.br/)
+[![Blog](https://img.shields.io/website?label=wataneegreirosmonteiro.com.br&style=for-the-badge&url=https://www.watanegreirosmonteiro.com.br/)](https://watanegreirosmonteiro.com.br/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wata-negreiros-monteiro-2a94ab1a7)
 
 </h5>
