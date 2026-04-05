@@ -9,23 +9,44 @@
 <h5 align="center">
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:watanegreirosmonteiro@gmail.com)
-[![Blog](https://img.shields.io/website?label=wataneegreirosmonteiro.com.br&style=for-the-badge&url=https://watanegreirosmonteiro.com.br)](https://watanegreirosmonteiro.com.br)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wata-negreiros-monteiro-2a94ab1a7)
 
 </h5>
 <br>
-<p align="center">
-    Hello! My name is Wata and I'm a software development engineer with a passion for generating innovative and creative solutions to complex problems. Passionate about technology, design and usability, always looking to learn new languages ​​and tools to expand my knowledge and deliver even more amazing projects.
+<p align="start">
+    I am a Full Stack Developer with nearly 6 years of experience building scalable, secure, and high-impact digital solutions using modern technologies such as PHP (Laravel/Lumen), JavaScript/TypeScript, React, React Native, Python (Flask/FastAPI), Docker, CI/CD, and Cloud platforms (AWS).
+
+I have strong expertise in process automation, DevOps, applied artificial intelligence, and quality-driven development, with hands-on experience in enterprise platforms, georeferencing systems, WhatsApp-integrated chatbots, LLM-based solutions, RAG Systems, and automated testing pipelines.
+
+Currently, I work at Sidia – Samsung Institute for Development and Innovation in the Amazon, where I develop automation frameworks using Python, Appium, PyTest, and Docker, applying best practices such as Page Object Model, E2E testing, API testing, performance testing, and mobile automation, fully integrated with GitHub Actions and GitLab CI. I also contribute to internal tools development using Flask, MongoDB, Streamlit, and Socket.IO, always focused on efficiency, reliability, and innovation.
+
+Throughout my career, I have delivered strategic systems for both public and private sectors, including:
+- Public transparency and government management platforms
+- Fleet management and administrative systems
+- Geolocation and data analytics solutions
+- AI-powered chatbots and automation tools
+- Microservices architectures and RESTful APIs
+
+I have a highly technical, results-oriented profile, with solid experience in Agile methodologies (Scrum/Kanban) and cross-functional collaboration in complex environments.
+
+Core Technical Skills
+- Full Stack Development
+- PHP Laravel | React | TypeScript | Python
+- REST/SOAP APIs | Microservices
+- Docker | DevOps | CI/CD Pipelines
+- Test Automation | Appium | PyTest
+- Artificial Intelligence | RAG Systems | Chatbots
+- Databases: MySQL, PostgreSQL, MongoDB
+- Cloud Computing: AWS & GCP
+- Agile Methodologies | Software Quality
+
+Languages
+- Portuguese – Native
+- English – Advanced
+- Spanish – Basic
 </p>
 <br/>
 
-<div align="center">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-</div>
 <br/>
 <hr/>
 </div>
